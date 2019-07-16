@@ -8,4 +8,3 @@ If you find any ERROR ,Please contact me
 [USING]
    pkg update upgrade
    pkg install git python2
-   
