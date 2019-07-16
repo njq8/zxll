@@ -23,6 +23,3 @@ All emails can be checked.
 ```
    python2 v_mails.py
 ```
-# zxll [IMG]
-<img src=zxll.jpg>
-<img src=kadaone.jpg>
