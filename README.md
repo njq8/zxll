@@ -7,7 +7,6 @@ All emails can be checked.
    Telegram : kadaone
    Facebook : Facebook.com/zxlll
 ```
-[![Facebook](www.facebook.com/zxlll)]
 # Installation
 * [USING] :
 ```
