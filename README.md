@@ -7,7 +7,8 @@ All emails can be checked.
    Telegram : kadaone
    Facebook : Facebook.com/zxlll
 ```
-# Installation 
+[![Facebook](https:www.facebook.com/zxlll)]
+# Installation
 * [USING] :
 ```
    pkg update upgrade
