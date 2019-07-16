@@ -26,4 +26,3 @@ All emails can be checked.
 # zxll [IMG]
 <img src=zxll.jpg>
 <img src=kadaone.jpg>
-<img src=zxlll.jpg>
