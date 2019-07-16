@@ -12,7 +12,7 @@ All emails can be checked.
 ```
    pkg update upgrade
    pkg install git python2
-   git clone
+   git clone https://github.com/zxllkada/zxll
    cd zxll
 ```
 # Setup
@@ -24,5 +24,6 @@ All emails can be checked.
    python2 v_mails.py
 ```
 # zxll [IMG]
-<img src=./images/zxll.jpg>
-<img src=./images/zxlll.jpg>
+<img src=zxll.jpg>
+<img src=kadaone.jpg>
+<img src=zxlll.jpg>
