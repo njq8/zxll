@@ -4,7 +4,7 @@ All emails can be checked.
 
 * if you find any ERROR, please contact me.
 ```
-   Telegram : kadaone
+   Telegram : @Ghost7_Kada
    Facebook : Facebook.com/zxlll
 ```
 # Installation
