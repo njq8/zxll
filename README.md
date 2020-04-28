@@ -1,3 +1,5 @@
+# Telegram channel [updates here]
+![Telegram_channel](Telegram_channel_join_to_get_updates.png)
 # What is v_mails
 Is a simple tool for checking emails.
 All emails can be checked.
